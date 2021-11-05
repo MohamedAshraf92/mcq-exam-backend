@@ -1,0 +1,92 @@
+[
+  {
+    "question": "When is the International Workers' Day",
+    "answers": [
+      { "title": "15th April", "right": false },
+      { "title": "12th December", "right": false },
+      { "title": "1st May", "right": true },
+      { "title": "1st August", "right": false }
+    ]
+  },
+  {
+    "question": "How many months do we have in a year",
+    "answers": [
+      { "title": "12 months", "right": true },
+      { "title": "7 months", "right": false },
+      { "title": "24 months", "right": false },
+      { "title": "60 months", "right": false }
+    ]
+  },
+  {
+    "question": "How many colors are there in a rainbow",
+    "answers": [
+      { "title": "5 colors", "right": false },
+      { "title": "7 colors", "right": true },
+      { "title": "4 colors", "right": false },
+      { "title": "10 colors", "right": false }
+    ]
+  },
+  {
+    "question": "Which day comes after Friday",
+    "answers": [
+      { "title": "Monday", "right": false },
+      { "title": "Saturday", "right": true },
+      { "title": "Thursday", "right": false },
+      { "title": "Sunday", "right": false }
+    ]
+  },
+  {
+    "question": "We use our eyes to",
+    "answers": [
+      { "title": "Hear", "right": false },
+      { "title": "Smell", "right": false },
+      { "title": "See", "right": true },
+      { "title": "Eat", "right": false }
+    ]
+  },
+  {
+    "question": "What is the longest river in the world",
+    "answers": [
+      { "title": "Amazon", "right": false },
+      { "title": "Cango", "right": false },
+      { "title": "Nile", "right": true },
+      { "title": "Niger", "right": false }
+    ]
+  },
+  {
+    "question": "How many days are there in a year",
+    "answers": [
+      { "title": "360 Days", "right": false },
+      { "title": "160 Days", "right": false },
+      { "title": "270 Days", "right": false },
+      { "title": "365 Days", "right": true }
+    ]
+  },
+  {
+    "question": "What is 5 + 3 = ",
+    "answers": [
+      { "title": "9", "right": false },
+      { "title": "2", "right": false },
+      { "title": "8", "right": true },
+      { "title": "53", "right": false }
+    ]
+  },
+  {
+    "question": "Which animal is known as the ‘Ship of the Desert",
+    "answers": [
+      { "title": "Camel", "right": true },
+      { "title": "Dog", "right": false },
+      { "title": "Snake", "right": false },
+      { "title": "Cow", "right": false }
+    ]
+  },
+  {
+    "question": "How many sides are there in a triangle",
+    "answers": [
+      { "title": "Four", "right": false },
+      { "title": "Zero", "right": false },
+      { "title": "Five", "right": false },
+      { "title": "Three", "right": true }
+    ]
+  }
+]
